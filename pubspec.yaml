@@ -1,0 +1,143 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/pictureimage.png
+  - assets/images/image_2.png
+  - assets/images/image.png
+  - assets/images/image_1.png
+  - assets/vectors/path_144_x2.svg
+  - assets/vectors/group_1156_x2.svg
+  - assets/vectors/group_117_x2.svg
+  - assets/vectors/group_1056_x2.svg
+  - assets/images/pictureimage.png
+  - assets/images/image_2.png
+  - assets/images/image.png
+  - assets/images/image_1.png
+  - assets/vectors/group_1173_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/path_14_x2.svg
+  - assets/vectors/group_1158_x2.svg
+  - assets/vectors/group_1052_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/images/image.png
+  - assets/images/pictureimage.png
+  - assets/images/image_2.png
+  - assets/images/image_1.png
+  - assets/vectors/path_145_x2.svg
+  - assets/vectors/group_1176_x2.svg
+  - assets/vectors/group_1151_x2.svg
+  - assets/vectors/group_1051_x2.svg
+  - assets/images/pictureimage.png
+  - assets/images/image_1.png
+  - assets/images/image_2.png
+  - assets/images/image.png
+  - assets/vectors/group_1157_x2.svg
+  - assets/vectors/group_1178_x2.svg
+  - assets/vectors/group_1054_x2.svg
+  - assets/vectors/path_146_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/images/google_logo.png
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/path_151_x2.svg
+  - assets/vectors/path_150_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/shift_1_x2.svg
+  - assets/vectors/delete_button_x2.svg
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/group_11_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/emoji_x2.svg
+  - assets/vectors/dictation_1_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/emoji_1_x2.svg
+  - assets/vectors/group_14_x2.svg
+  - assets/vectors/cellular_connection_6_x2.svg
+  - assets/vectors/delete_button_1_x2.svg
+  - assets/vectors/shift_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/dictation_x2.svg
+  - assets/vectors/group_12_x2.svg
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/cellular_connection_3_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/group_13_x2.svg
+  - assets/images/pictureimage.png
+  - assets/images/image.png
+  - assets/images/image_2.png
+  - assets/images/image_1.png
+  - assets/vectors/image_3_x2.svg
+  - assets/vectors/group_1171_x2.svg
+  - assets/vectors/group_1154_x2.svg
+  - assets/vectors/path_147_x2.svg
+  - assets/vectors/group_1057_x2.svg
+  - assets/images/app_icon.png
+  - assets/images/image.png
+  - assets/images/image_2.png
+  - assets/images/pictureimage.png
+  - assets/images/image_1.png
+  - assets/images/interests.png
+  - assets/vectors/group_1055_x2.svg
+  - assets/vectors/group_1153_x2.svg
+  - assets/vectors/path_148_x2.svg
+  - assets/vectors/group_1177_x2.svg
+  - assets/images/pictureimage.png
+  - assets/images/image_1.png
+  - assets/images/image_2.png
+  - assets/images/image.png
+  - assets/vectors/path_142_x2.svg
+  - assets/vectors/group_105_x2.svg
+  - assets/vectors/group_115_x2.svg
+  - assets/vectors/group_1172_x2.svg
+  - assets/images/image_1.png
+  - assets/images/image.png
+  - assets/images/pictureimage.png
+  - assets/images/image_2.png
+  - assets/vectors/group_1175_x2.svg
+  - assets/vectors/path_143_x2.svg
+  - assets/vectors/group_1058_x2.svg
+  - assets/vectors/group_1155_x2.svg
+  - assets/images/pictureimage.png
+  - assets/images/image_2.png
+  - assets/images/image_1.png
+  - assets/images/image.png
+  - assets/vectors/group_1053_x2.svg
+  - assets/vectors/group_1174_x2.svg
+  - assets/vectors/group_1152_x2.svg
+  - assets/vectors/path_141_x2.svg
+
